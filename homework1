@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <link rel="stylesheet" type="text/css" href="Style.css">
+  
+<title>Page Title</title>
+</head>
+<body>
+<div class="wrapper">   
+<div class="header">
+    <div class="name">
+        <h2>Patrick Whynot</h2>
+    </div>
+    <div class="slider"></div>
+    <div class="about link"><a href="PortfolioSite.html">About</a></div>
+    <div class="portfolio link"><a href="Portfolio.html">Portfolio</a></div>
+    <div class="contact link"><a href="Contact.html">Contact</a></div>
+</div>
+</div>
+
+<div class="container">
+    <div class="aboutMe">
+        <h3 class="aboutMeTitle">About Me</h3>
+        <div class="personalInfo">
+            <div>
+                <img src="https://media.licdn.com/dms/image/C4E03AQGIjmVTo8Wl5Q/profile-displayphoto-shrink_100_100/0?e=1556755200&v=beta&t=ZpC5CTA1efjFImte8nDAXTyqDJ2m9FU01bmKcvMwRCE" alt="profile picture" class="profilePicture">
+            </div>
+            <div>
+                <p>With 5 plus years in video production, I have produced many types of videos from commericals to documentaries. My clients ranged from Oil & Gas industry, start-ups, non-profits and even a Universtiy. Cinematography is my specility but I am also skilled in video editing and location sound. I have worked multiple positions in every stage of production, aside from professional work I have produced multiple passion projects. My favorite being a fishing video about the spring time bass spawn titled "Out of the Pond." Now after 5 plus years in video production I have decided to change careers and jump into a whole new field of work in web development. </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>Copy Right Patrick Whynot</p>
+</footer>
+
+</body>
+</html>
